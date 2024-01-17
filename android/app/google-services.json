@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937052525568",
+    "project_id": "jobmarketplace-a1007",
+    "storage_bucket": "jobmarketplace-a1007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937052525568:android:e1a7d0b5021b1259dfb4e5",
+        "android_client_info": {
+          "package_name": "com.example.job_marketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937052525568-porme3ktdqcoml7hgus39965jbfd2lnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqGplMu2uAe6nENUtF83X3qvhNni8rgS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937052525568-porme3ktdqcoml7hgus39965jbfd2lnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
